@@ -20,7 +20,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "link1st\\Easemob\\": "src/"
+            "fengyun\\Easemob\\": "src/"
         }
     }
 }
